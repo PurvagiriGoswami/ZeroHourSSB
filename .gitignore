@@ -1,0 +1,19 @@
+# Large source extraction directories (>4GB raw archives)
+materials/extracted/
+materials/derived/
+assets/
+backups/
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.tmp
+*.log
+
+# Node & Python caches
+node_modules/
+__pycache__/
+*.pyc
